@@ -5,5 +5,6 @@ This is a project that collects AI tools, aimed at learning more AI-operable fun
 3. [AI generator best man speech](https://weddingspeechlab.com)
 
 
-and this documents
+and documents
 1. [How to writing IELTS task 1 essay](https://ieltswritingtask.edublogs.org/)
+2. [a blog](https://www.folkd.com/blog/48015-yvzz/)
