@@ -18,3 +18,4 @@ and documents
 10. [KR blog](https://velog.io/@jilly283/IELTS-essay-writing)
 11. [band](https://bandzone.cz/fan/iufue?at=blog&bi=615915)
 12. [TRANSLATOR](https://tm-town.com/translators/jilly8837)
+13. [MYAPPLE](https://myapple.pl/users/497902-jilly8923)
