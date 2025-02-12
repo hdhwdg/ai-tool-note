@@ -12,3 +12,4 @@ and documents
 4. [wedding speech tips](https://www.google.com/url?sa=E&q=https%3A%2F%2Fweddingspeechlab.com%2Fpro-tips%2F)
 5. [UFBA](https://noosfero.ufba.br/jonnyyy/ai-tools)
 6. [LINK](https://www.provenexpert.com/en-us/jilly/)
+7. [LINK](https://www.adminer.org/redirect/?lang=en&url=https://weddingspeechlab.com)
