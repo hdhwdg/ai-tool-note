@@ -13,3 +13,5 @@ and documents
 5. [UFBA](https://noosfero.ufba.br/jonnyyy/ai-tools)
 6. [LINK](https://www.provenexpert.com/en-us/jilly/)
 7. [LINK](https://www.adminer.org/redirect/?lang=en&url=https://weddingspeechlab.com)
+8. [LINK](https://bukkit.org/proxy.php?link=https://weddingspeechlab.com]
+9. [LINK](https://www.flashback.org/leave.php?u=https://weddingspeechlab.com]
