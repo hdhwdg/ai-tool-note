@@ -19,3 +19,5 @@ and documents
 11. [band](https://bandzone.cz/fan/iufue?at=blog&bi=615915)
 12. [TRANSLATOR](https://tm-town.com/translators/jilly8837)
 13. [MYAPPLE](https://myapple.pl/users/497902-jilly8923)
+14. [45DAYS](https://pagure.io/45days)
+15. [WS](https://pagure.io/WS)
