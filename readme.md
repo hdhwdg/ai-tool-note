@@ -50,3 +50,5 @@ and documents
 42. [DM](https://setiathome.berkeley.edu/show_user.php?userid=12028630)
 43. [IC](https://setiathome.berkeley.edu/show_user.php?userid=12028650)
 44. [Links](https://cal.com/joe92912)
+45. [数学AI](https://lite.evernote.com/note/ad631797-1c19-f4e9-396c-a226716ab63a)
+46. [4o image](https://lite.evernote.com/note/a8c230b8-fd11-737e-8b10-1943994d45c5)
