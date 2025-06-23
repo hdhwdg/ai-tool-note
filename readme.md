@@ -59,3 +59,4 @@ and documents
 51. [local weather radar](https://localweatherradar.org)
 52. [today wordle answers](https://todaywordleanswers.com)
 53. [Anna provenexpert](https://www.provenexpert.com/anna22/)
+54. [create ship name](https://telegra.ph/Crafting-the-Perfect-Blend-Generate-Unique-Relationship-Names-for-Couples-Friends-and-Fandoms-06-23)
