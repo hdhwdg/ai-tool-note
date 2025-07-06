@@ -64,3 +64,5 @@ and documents
 56. [live weather](https://telegra.ph/Live-Weather-Radar-Your-Real-Time-Guide-to-Local-Weather-Patterns-06-23)
 57. [Date ideas](https://dateideas.net)
 58. [discover date ideas](https://telegra.ph/Discover-Perfect-Date-Ideas-with-Your-Personal-AI-Date-Planning-Assistant-06-30)
+59. [Concrete Calculator](https://concretecalculator.uk)
+60. [Concrete calculator tool](https://telegra.ph/Concrete-Calculator-Master-Your-Project-Estimates-Discover-the-Free-Tool-for-Precise-Concrete-Volume-Cost--Reporting-07-06)
