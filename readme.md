@@ -71,3 +71,5 @@ and documents
 63. [Baseball Bros](https://baseball-bros.net)
 64. [Period Tracker](https://period-tracker.org)
 65. [TUNG TUNG TUNG SAHUR](https://tung-tung-tung-sahur.com)
+66. [Margin Calculator](https://margincalculator.work)
+67. [Concrete Calculator](https://concretecalculator.uk)
