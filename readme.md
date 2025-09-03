@@ -10,7 +10,6 @@ and documents
 2. [a blog](https://www.folkd.com/blog/48015-yvzz/)
 3. [數學輔導AI](https://www.plurk.com/p/3gu7ddu26l)
 4. [wedding speech tips](https://www.google.com/url?sa=E&q=https%3A%2F%2Fweddingspeechlab.com%2Fpro-tips%2F)
-5. [UFBA](https://noosfero.ufba.br/jonnyyy/ai-tools)
 6. [LINK](https://www.provenexpert.com/en-us/jilly/)
 7. [LINK](https://www.adminer.org/redirect/?lang=en&url=https://weddingspeechlab.com)
 8. [LINK](https://www.adminer.org/redirect/?lang=en&url=https://east.im)
