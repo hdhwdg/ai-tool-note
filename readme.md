@@ -71,4 +71,7 @@ and documents
 66. [Margin Calculator](https://margincalculator.work)
 67. [Concrete Calculator](https://concretecalculator.uk)
 68. [Calendar Calculator](https://calendarcalculator.net)
-69. [Concrete Calculator](https://concrete-calculator.work)
+69. [PlanBB](https://alternativeto.net/software/planbb/about/)
+70. [PlanBB](https://planbb.cc)
+71. [Prompt generator](https://prompt-generator.cc)
+72. [Concrete Calculator](https://concrete-calculator.work)
