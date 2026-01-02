@@ -74,4 +74,5 @@ and documents
 69. [PlanBB](https://alternativeto.net/software/planbb/about/)
 70. [PlanBB](https://planbb.cc)
 71. [Prompt generator](https://prompt-generator.cc)
-72. [Concrete Calculator](https://concrete-calculator.work)
+72. [Producthunt](https://www.producthunt.com/products/planbb)
+73. [Concrete Calculator](https://concrete-calculator.work)
