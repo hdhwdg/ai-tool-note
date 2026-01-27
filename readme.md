@@ -76,3 +76,6 @@ and documents
 71. [Prompt generator](https://prompt-generator.cc)
 72. [Producthunt](https://www.producthunt.com/products/planbb)
 73. [Concrete Calculator](https://concrete-calculator.work)
+74. [Unicorn Coloring Pages](https://unicorncoloringpages.org)
+75. [Free AI](https://free-ai.cc)
+76. [Long Division calulator](https://east.im/education/long-division-calculator)
