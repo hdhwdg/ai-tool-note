@@ -28,7 +28,6 @@ and documents
 23. [TRANSLATOR](https://tm-town.com/translators/jilly8837)
 25. [45DAYS](https://pagure.io/45days)
 26. [WS](https://pagure.io/WS)
-27. [JOBS](https://constructionjobs.com/employer/jiojfioew0-at-mythat)
 28. [link](https://link.zhihu.com/?target=https://deltamath.win)
 29. [link](https://link.zhihu.com/?target=https://east.im)
 30. [link](https://link.zhihu.com/?target=https://weddingspeechlab.com)
