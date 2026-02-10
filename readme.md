@@ -7,7 +7,6 @@ This is a project that collects AI tools, aimed at learning more AI-operable fun
 
 and documents
 1. [How to writing IELTS task 1 essay](https://ieltswritingtask.edublogs.org/)
-2. [a blog](https://www.folkd.com/blog/48015-yvzz/)
 3. [數學輔導AI](https://www.plurk.com/p/3gu7ddu26l)
 4. [wedding speech tips](https://www.google.com/url?sa=E&q=https%3A%2F%2Fweddingspeechlab.com%2Fpro-tips%2F)
 6. [LINK](https://www.provenexpert.com/en-us/jilly/)
@@ -26,7 +25,6 @@ and documents
 19. [LINK](https://www.flashback.org/leave.php?u=https://ieltswritingchecker.uk)
 20. [LINK](https://www.flashback.org/leave.php?u=https://deltamath.win)
 21. [LINK](https://www.flashback.org/leave.php?u=https://toyotatacomaforsale.org)
-22. [band](https://bandzone.cz/fan/iufue?at=blog&bi=615915)
 23. [TRANSLATOR](https://tm-town.com/translators/jilly8837)
 25. [45DAYS](https://pagure.io/45days)
 26. [WS](https://pagure.io/WS)
