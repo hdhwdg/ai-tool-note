@@ -72,3 +72,6 @@ and documents
 75. [Free AI](https://free-ai.cc)
 76. [Long Division calulator](https://east.im/education/long-division-calculator)
 77. [Cal](https://cal.com/calcalc)
+78. [stackshare](https://stackshare.io/finchemailbox/concrete-calculator)
+79. [period](https://stackshare.io/finchemailbox/period-tracker)
+80. [weather radar](https://stackshare.io/finchemailbox/local-weather-radar)
