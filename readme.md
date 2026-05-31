@@ -80,3 +80,4 @@ and documents
 83. [zen analyze linktr](https://linktr.ee/zenanalyze)
 84. [period tracker](https://linktr.ee/peroidtracker)
 85. [zen analyze cal](https://cal.com/zenanalyze)
+86. [east cal](https://cal.com/eastim)
