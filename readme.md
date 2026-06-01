@@ -86,3 +86,7 @@ and documents
 89. [crunch mc](https://www.crunchbase.com/organization/margin-calculator-90e1)
 90. [crunch east](https://www.crunchbase.com/organization/east-5808)
 91. [crunch guasha](https://www.crunchbase.com/organization/gua-sha)
+92. [crunch ccuk](https://www.crunchbase.com/organization/concrete-calculator-uk)
+93. [crunch ccwork](https://www.crunchbase.com/organization/concrete-calculator-work)
+94. [crunch heic2pdf](https://www.crunchbase.com/organization/heic-to-pdf)
+95. [crunch baseball](https://www.crunchbase.com/organization/baseball-bros)
