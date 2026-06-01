@@ -82,3 +82,7 @@ and documents
 85. [zen analyze cal](https://cal.com/zenanalyze)
 86. [east cal](https://cal.com/eastim)
 87. [crunch zen](https://www.crunchbase.com/organization/zen-analyze)
+88. [crunch pt](https://www.crunchbase.com/organization/period-tracker-1fa7)
+89. [crunch mc](https://www.crunchbase.com/organization/margin-calculator-90e1)
+90. [crunch east](https://www.crunchbase.com/organization/east-5808)
+91. [crunch guasha](https://www.crunchbase.com/organization/gua-sha)
