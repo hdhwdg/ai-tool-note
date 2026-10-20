@@ -117,3 +117,4 @@ and documents
 142. [PeerList](https://peerlist.io/finchonline/project/ttslark)
 143. [Concat Video Editor](https://concatvideoeditor.com)
 144. [reddit](https://www.reddit.com/user/Crarky/)
+145. [Medium TTS](https://medium.com/@finchemailbox/how-to-turn-any-script-into-a-natural-voiceover-with-ttslark-c530b2665b53)
