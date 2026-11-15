@@ -140,3 +140,18 @@ and documents
 [Tim on about.me](https://about.me/tim_builds)
 [Tim on solo.to](https://solo.to/tim_builds)
 [Tim on Hugging Face](https://huggingface.co/tim-builds)
+
+## Articles
+
+- [When Your Period Tracker Answers Questions Instead of Showing You Charts](https://dev.to/tim_builds/when-your-period-tracker-answers-questions-instead-of-showing-you-charts-44n0) (DEV Community)
+- [Leaving My Period App for a Browser Tab](https://browsertabnotes.blogspot.com/2026/11/leaving-my-period-app-for-browser-tab.html) (Blogger)
+- [Free Period, Fertility and Pregnancy Calculators](https://sites.google.com/view/cycle-calculator-notes) (Google Sites)
+- [What to Look for in a Free Period Tracker in 2026](https://medium.com/@tim_builds/what-to-look-for-in-a-free-period-tracker-in-2026-057eed30c2b5) (Medium)
+- [The partner sharing setting I didn't expect to like](https://www.tumblr.com/goldenvapormuse/833234925104791552/the-partner-sharing-setting-i-didnt-expect-to) (Tumblr)
+- [Spotting Changes in Irregular Periods With a Year View](https://telegra.ph/Spotting-Changes-in-Irregular-Periods-With-a-Year-View-11-14) (Telegraph)
+- [Keeping a Symptom Log You'll Actually Use](https://skitter-pipe-5fc.notion.site/Keeping-a-Symptom-Log-You-ll-Actually-Use-418e60315e0b8013a7deedae122b9602) (Notion)
+
+## Listings
+
+- [Period Tracker Online on SaaSHub](https://www.saashub.com/period-tracker-online)
+- [Sites like period-tracker.org on SiteLike](https://www.sitelike.org/similar/period-tracker.org/)
