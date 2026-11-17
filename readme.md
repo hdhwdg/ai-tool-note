@@ -156,3 +156,20 @@ and documents
 - [Period Tracker Online on SaaSHub](https://www.saashub.com/period-tracker-online)
 - [Sites like period-tracker.org on SiteLike](https://www.sitelike.org/similar/period-tracker.org/)
 - [Period Tracker on WebCatalog](https://webcatalog.io/en/apps/period-tracker)
+
+## My Professional Headshot: published links
+
+### Articles
+
+- [Why a headshot tool can skip the prompt box](https://dev.to/tim_builds/why-a-headshot-tool-can-skip-the-prompt-box-e09) (Dev.to)
+- [How to Get a Professional Headshot From a Selfie Without Booking a Studio](https://medium.com/@tim_builds/you-need-a-new-profile-photo-and-the-last-good-picture-of-you-is-three-jobs-old-6409dda3c2a2) (Medium)
+- [What to Wear for a Headshot, Using 12 Real Style Outfits as Examples](https://www.tumblr.com/goldenvapormuse/833550913137426432/what-to-wear-for-a-headshot-using-12-real-style) (Tumblr)
+- [How to Take a Selfie That Works for an AI Headshot](https://telegra.ph/How-to-Take-a-Selfie-That-Works-for-an-AI-Headshot-11-17) (Telegraph)
+- [Headshot Sizes and Crops for LinkedIn, Resumes and Staff Pages](https://profilephotonotes.blogspot.com/2026/11/headshot-sizes-and-crops-for-linkedin.html) (Blogger)
+- [Matching Headshots for a Small Team or Staff Page](https://sites.google.com/view/teamheadshotnotes) (Google Sites)
+- [A Field Guide to the 12 Headshot Styles and Which Job Each One Fits](https://crystal-coconut-726.notion.site/A-Field-Guide-to-the-12-Headshot-Styles-and-Which-Job-Each-One-Fits-41bdb7b9436e80fc8b2de0e79855946d) (Notion)
+
+### Directory listings
+
+- [Website Launches](https://websitelaunches.com/site/myprofessionalheadshot.com)
+- [SiteLike](https://www.sitelike.org/similar/myprofessionalheadshot.com/)
