@@ -173,3 +173,14 @@ and documents
 
 - [Website Launches](https://websitelaunches.com/site/myprofessionalheadshot.com)
 - [SiteLike](https://www.sitelike.org/similar/myprofessionalheadshot.com/)
+
+## GTA6Player.wiki: published links
+
+### Articles
+
+- [How to Finish Pipework, the GTA 6 Mandy Mission](https://telegra.ph/How-to-Finish-Pipework-the-GTA-6-Mandy-Mission-11-24) (Telegraph)
+- [GTA 6 Endings Explained: What Decides Which One You Get](https://medium.com/@pub_78948/gta-6-endings-explained-what-decides-which-one-you-get-1a5e21644417) (Medium)
+
+### Directory listings
+
+- [GTA 6 Wiki competitors on ChampSignal](https://champsignal.com/competitors/gta6player.wiki)
