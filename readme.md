@@ -180,6 +180,7 @@ and documents
 
 - [How to Finish Pipework, the GTA 6 Mandy Mission](https://telegra.ph/How-to-Finish-Pipework-the-GTA-6-Mandy-Mission-11-24) (Telegraph)
 - [GTA 6 Endings Explained: What Decides Which One You Get](https://medium.com/@pub_78948/gta-6-endings-explained-what-decides-which-one-you-get-1a5e21644417) (Medium)
+- [What came out of Mandy's sink in GTA 6?](https://www.tumblr.com/leonidaplayernotes/834138633869164544/what-came-out-of-mandys-sink-in-gta-6) (Tumblr)
 
 ### Directory listings
 
