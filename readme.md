@@ -194,5 +194,6 @@ and documents
 - [Academic Writing Task 1: writing the overview and choosing key features](https://ieltswritingdraftnotes.blogspot.com/2026/11/academic-writing-task-1-writing.html) (Blogger)
 - [How to Pick the Right Tone for an IELTS General Training Letter](https://sites.google.com/view/ieltsletterwritingnotes) (Google Sites)
 - [IELTS Writing Revision Checklist](https://lunar-border-2b9.notion.site/IELTS-Writing-Revision-Checklist-Duplicate-This-Page-423524e1fe468026b07af2297edd1fc0) (Notion)
+- [Reading an IELTS Writing Sample Report, Then Turning It Into a Revision Plan](https://dev.to/nora_writes/reading-an-ielts-writing-sample-report-then-turning-it-into-a-revision-plan-2fci) (DEV)
 
 ### Directory listings
