@@ -191,5 +191,8 @@ and documents
 ### Articles
 
 - [How to check your IELTS Writing Task 2 essay at home](https://telegra.ph/How-to-check-your-IELTS-Writing-Task-2-essay-at-home-11-25) (Telegraph)
+- [Academic Writing Task 1: writing the overview and choosing key features](https://ieltswritingdraftnotes.blogspot.com/2026/11/academic-writing-task-1-writing.html) (Blogger)
+- [How to Pick the Right Tone for an IELTS General Training Letter](https://sites.google.com/view/ieltsletterwritingnotes) (Google Sites)
+- [IELTS Writing Revision Checklist](https://lunar-border-2b9.notion.site/IELTS-Writing-Revision-Checklist-Duplicate-This-Page-423524e1fe468026b07af2297edd1fc0) (Notion)
 
 ### Directory listings
