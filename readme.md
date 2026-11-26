@@ -195,6 +195,10 @@ and documents
 - [How to Pick the Right Tone for an IELTS General Training Letter](https://sites.google.com/view/ieltsletterwritingnotes) (Google Sites)
 - [IELTS Writing Revision Checklist](https://lunar-border-2b9.notion.site/IELTS-Writing-Revision-Checklist-Duplicate-This-Page-423524e1fe468026b07af2297edd1fc0) (Notion)
 - [Reading an IELTS Writing Sample Report, Then Turning It Into a Revision Plan](https://dev.to/nora_writes/reading-an-ielts-writing-sample-report-then-turning-it-into-a-revision-plan-2fci) (DEV)
+- [IELTS Writing band descriptors in plain words, and what to change in your draft](https://medium.com/@tim_builds/ielts-writing-band-descriptors-in-plain-words-and-what-to-change-in-your-draft-c3e1a59d7fa8) (Medium)
+- [Got a handwritten IELTS essay? How to check it from a phone photo](https://www.tumblr.com/goldenvapormuse/834380399317778432/got-a-handwritten-ielts-essay-heres-how-to-check) (Tumblr)
+- [IELTS Writing Checker guide](https://tim-builds.gitbook.io/tim-builds-docs/ielts-writing-checker) (GitBook)
+- [IELTS Writing Checker: a guide to checking IELTS Task 1 and Task 2 answers](https://issuu.com/timbuilds/docs/ielts_writing_checker_a_guide_to_checking_ielts_t) (Issuu)
 
 ### Directory listings
 
