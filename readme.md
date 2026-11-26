@@ -197,3 +197,6 @@ and documents
 - [Reading an IELTS Writing Sample Report, Then Turning It Into a Revision Plan](https://dev.to/nora_writes/reading-an-ielts-writing-sample-report-then-turning-it-into-a-revision-plan-2fci) (DEV)
 
 ### Directory listings
+
+- [IELTS Writing Checker competitors and alternatives on ChampSignal](https://champsignal.com/competitors/ieltswritingchecker.uk)
+- [IELTS Writing Checker on WebCatalog](https://webcatalog.io/en/apps/ielts-writing-checker)
