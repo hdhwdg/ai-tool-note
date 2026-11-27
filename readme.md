@@ -199,6 +199,7 @@ and documents
 - [Got a handwritten IELTS essay? How to check it from a phone photo](https://www.tumblr.com/goldenvapormuse/834380399317778432/got-a-handwritten-ielts-essay-heres-how-to-check) (Tumblr)
 - [IELTS Writing Checker guide](https://tim-builds.gitbook.io/tim-builds-docs/ielts-writing-checker) (GitBook)
 - [IELTS Writing Checker: a guide to checking IELTS Task 1 and Task 2 answers](https://issuu.com/timbuilds/docs/ielts_writing_checker_a_guide_to_checking_ielts_t) (Issuu)
+- [Prompts for Self-Checking an IELTS Essay, and Where a Dedicated Checker Fits](https://www.promptzone.com/nora_iwc/prompts-for-self-checking-an-ielts-essay-and-where-a-dedicated-checker-fits-bca) (PromptZone)
 
 ### Directory listings
 
