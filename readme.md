@@ -205,3 +205,4 @@ and documents
 - [Sites like IELTS Writing Checker on SiteLike](https://www.sitelike.org/similar/ieltswritingchecker.uk/)
 - [IELTS Writing Checker competitors and alternatives on ChampSignal](https://champsignal.com/competitors/ieltswritingchecker.uk)
 - [IELTS Writing Checker on WebCatalog](https://webcatalog.io/en/apps/ielts-writing-checker)
+- [IELTS Writing Checker on The Hack Stack](https://thehackstack.com/s/ieltswritingchecker/)
