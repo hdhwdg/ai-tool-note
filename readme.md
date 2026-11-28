@@ -173,6 +173,8 @@ and documents
 
 - [Website Launches](https://websitelaunches.com/site/myprofessionalheadshot.com)
 - [SiteLike](https://www.sitelike.org/similar/myprofessionalheadshot.com/)
+- [The Hack Stack](https://thehackstack.com/s/myprofessionalheadshot/)
+- [ChampSignal](https://champsignal.com/competitors/myprofessionalheadshot.com)
 
 ## GTA6Player.wiki: published links
 
