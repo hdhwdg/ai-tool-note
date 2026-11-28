@@ -188,6 +188,7 @@ and documents
 ### Directory listings
 
 - [GTA 6 Wiki competitors on ChampSignal](https://champsignal.com/competitors/gta6player.wiki)
+- [The Hack Stack](https://thehackstack.com/s/gta6player/)
 
 ## IELTS Writing Checker: published links
 
