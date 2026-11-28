@@ -168,6 +168,7 @@ and documents
 - [Headshot Sizes and Crops for LinkedIn, Resumes and Staff Pages](https://profilephotonotes.blogspot.com/2026/11/headshot-sizes-and-crops-for-linkedin.html) (Blogger)
 - [Matching Headshots for a Small Team or Staff Page](https://sites.google.com/view/teamheadshotnotes) (Google Sites)
 - [A Field Guide to the 12 Headshot Styles and Which Job Each One Fits](https://crystal-coconut-726.notion.site/A-Field-Guide-to-the-12-Headshot-Styles-and-Which-Job-Each-One-Fits-41bdb7b9436e80fc8b2de0e79855946d) (Notion)
+- [How to Write a Prompt for a Professional Headshot (and What to Leave Out)](https://www.promptzone.com/samt_portraits/how-to-write-a-prompt-for-a-professional-headshot-and-what-to-leave-out-k96) (PromptZone)
 
 ### Directory listings
 
