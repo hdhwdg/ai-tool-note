@@ -119,6 +119,7 @@ and documents
 144. [reddit](https://www.reddit.com/user/Crarky/)
 145. [Medium TTS](https://medium.com/@finchemailbox/how-to-turn-any-script-into-a-natural-voiceover-with-ttslark-c530b2665b53)
 146. [TTSLark on Dev.to: TTS captions that come from the render](https://dev.to/tim_builds/your-tts-captions-should-come-from-the-render-not-from-a-transcript-of-it-17lo)
+147. [TTSLark on The Hack Stack](https://thehackstack.com/s/ttslark/)
 [Free text to speech for commercial use (Blogger)](https://timbuilds.blogspot.com/2026/11/free-text-to-speech-for-commercial-use.html)
 [A faceless YouTube voiceover workflow with subtitles (Medium)](https://medium.com/@tim_builds/a-faceless-youtube-voiceover-workflow-subtitles-included-140bac8a04da)
 [TikTok, Reels and Shorts voiceovers with timed captions (Telegraph)](https://telegra.ph/TikTok-Reels-and-Shorts-Voiceovers-With-Captions-Timed-to-the-Voice-11-10)
